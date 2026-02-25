@@ -1,2 +1,11 @@
-# analise-chamados-suporte-python
-Projeto de análise de dados simulando base de chamados técnicos, utilizando Python para gerar métricas e insights para tomada de decisão.
+# Análise de Chamados de Suporte com Python
+
+Projeto desenvolvido para simular análise de dados de chamados técnicos, aplicando conceitos de:
+
+- Listas
+- Dicionários
+- Funções
+- Cálculo de métricas
+- Estatística básica
+
+Objetivo: demonstrar capacidade analítica utilizando Python.
